@@ -1,5 +1,8 @@
-# 完成Beta 版本验证，准备发布正式版本，正式版本和Beta版本数据不兼容
-  正式版本发布时间10月中旬
+# Release SDK：https://github.com/FaceSDKPro/HelloFace
+# Release SDK：https://github.com/FaceSDKPro/HelloFace
+
+READ ONLY
+
   
 # [关于「HiFaceSDK」](https://github.com/FaceSDKPro/HiFaceSDK_Android)
 
